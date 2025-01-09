@@ -3,7 +3,7 @@
 
 **Nama** **kelompok** **:** 
 
-Idris Syahrudin
+Idris Syahrudin.
 
 Dimas Aditya Putranto
 
