@@ -10,7 +10,7 @@ Dimas Aditya Putranto
 Muhamad Jati Wasesa
 
 Hardi Wirkan
-
+...
 Ridha Muhammad Rifqi
 
 Kelas : TI.22.A.5
