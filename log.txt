@@ -1,0 +1,674 @@
+2024-11-28 22:55:15-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 22:55:15-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 22:59:17-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 22:59:17-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:08:02-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:08:02-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:19:15-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:19:15-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:26:36-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:26:36-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:27:43-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:27:43-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:32:58-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:32:58-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:33:20-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:33:20-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-28 23:38:01-Koneksi gagal:No suitable driver found for jdbc:mysql://localhost:3360/nusabacafull
+2024-11-28 23:38:01-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-29 15:22:19-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-29 15:22:19-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-29 15:22:27-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-29 15:22:27-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-29 15:23:34-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-29 15:23:34-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-29 15:24:16-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-29 15:24:16-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-29 16:00:09-Koneksi berhasil ke database
+2024-11-29 16:00:09-Tampilkan data ke FrameFbuku
+2024-11-29 16:35:12-Koneksi berhasil ke database
+2024-11-29 16:35:12-Tampilkan data ke Frame Fanggota
+2024-11-29 16:35:28-Koneksi berhasil ke database
+2024-11-29 16:35:29-Penyimpanan Data Berhasil dengan NIM C050423026
+2024-11-29 16:35:29-Koneksi berhasil ke database
+2024-11-29 16:35:29-Tampilkan data ke Frame Fanggota
+2024-11-29 16:36:26-Koneksi berhasil ke database
+2024-11-29 16:36:26-Tampilkan data ke Frame Fanggota
+2024-11-29 16:36:31-Koneksi berhasil ke database
+2024-11-29 16:36:34-Data Berhasil Diperbaharui dengan ID C050423026
+2024-11-29 16:36:34-Koneksi berhasil ke database
+2024-11-29 16:36:34-Tampilkan data ke Frame Fanggota
+2024-11-29 16:36:58-Koneksi berhasil ke database
+2024-11-29 16:36:58-Tampilkan data ke Frame Fanggota
+2024-11-29 16:37:36-Koneksi berhasil ke database
+2024-11-29 16:37:36-Tampilkan data ke Frame Fanggota
+2024-11-29 16:37:59-Koneksi berhasil ke database
+2024-11-29 16:37:59-Tampilkan data ke Frame Fanggota
+2024-11-29 16:38:17-Koneksi berhasil ke database
+2024-11-29 16:38:17-Tampilkan data ke Frame Fanggota
+2024-11-29 16:38:37-Koneksi berhasil ke database
+2024-11-29 16:38:37-Tampilkan data ke Frame Fanggota
+2024-11-29 16:39:27-Koneksi berhasil ke database
+2024-11-29 16:39:28-Tampilkan data ke Frame Fanggota
+2024-11-29 16:39:53-Koneksi berhasil ke database
+2024-11-29 16:39:53-Tampilkan data ke Frame Fanggota
+2024-11-29 17:06:57-Koneksi berhasil ke database
+2024-11-29 17:06:57-Tampilkan data ke FrameFbuku
+2024-11-29 17:07:42-Koneksi berhasil ke database
+2024-11-29 17:07:47-Data gagal disimpan:Data truncation: Incorrect date value: '2019' for column 'tahun_terbit' at row 1
+2024-11-29 17:07:51-Koneksi berhasil ke database
+2024-11-29 17:07:54-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'buku= 'Poliban', pengarang ='Joni Riadi', Penerbit='Nusa', tahun terbit ='2019' ' at line 1
+2024-11-29 17:07:54-Koneksi berhasil ke database
+2024-11-29 17:07:54-Tampilkan data ke FrameFbuku
+2024-11-29 17:09:08-Koneksi berhasil ke database
+2024-11-29 17:09:08-Tampilkan data ke FrameFbuku
+2024-11-29 17:09:39-Koneksi berhasil ke database
+2024-11-29 17:09:40-Penyimpanan Data Berhasil dengan NIMC03
+2024-11-29 17:09:40-Koneksi berhasil ke database
+2024-11-29 17:09:40-Tampilkan data ke FrameFbuku
+2024-11-29 17:09:48-Koneksi berhasil ke database
+2024-11-29 17:09:48-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:09:58-Koneksi berhasil ke database
+2024-11-29 17:09:58-Tampilkan data ke FrameFbuku
+2024-11-29 17:09:59-Koneksi berhasil ke database
+2024-11-29 17:09:59-Tampilkan data ke Frame Fanggota
+2024-11-29 17:10:09-Koneksi berhasil ke database
+2024-11-29 17:10:09-Tampilkan data ke FrameFbuku
+2024-11-29 17:10:11-Koneksi berhasil ke database
+2024-11-29 17:10:11-Tampilkan data ke Frame Fanggota
+2024-11-29 17:10:13-Koneksi berhasil ke database
+2024-11-29 17:10:13-Tampilkan data ke FrameFbuku
+2024-11-29 17:10:15-Koneksi berhasil ke database
+2024-11-29 17:10:15-Tampilkan data ke Frame Fanggota
+2024-11-29 17:10:17-Koneksi berhasil ke database
+2024-11-29 17:10:17-Tampilkan data ke FrameFbuku
+2024-11-29 17:10:19-Koneksi berhasil ke database
+2024-11-29 17:10:19-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:10:20-Koneksi berhasil ke database
+2024-11-29 17:10:20-Tampilkan data ke FrameFbuku
+2024-11-29 17:10:21-Koneksi berhasil ke database
+2024-11-29 17:10:21-Tampilkan data ke Frame Fanggota
+2024-11-29 17:11:12-Koneksi berhasil ke database
+2024-11-29 17:11:12-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:11:17-Koneksi berhasil ke database
+2024-11-29 17:11:17-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:11:19-Koneksi berhasil ke database
+2024-11-29 17:11:21-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''','','','','' WHERE id = '1'' at line 1
+2024-11-29 17:11:21-Koneksi berhasil ke database
+2024-11-29 17:11:21-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:14:32-Koneksi berhasil ke database
+2024-11-29 17:14:32-Tampilkan data ke Frame Fanggota
+2024-11-29 17:14:54-Koneksi berhasil ke database
+2024-11-29 17:14:55-Penyimpanan Data Berhasil dengan NIM C05041204
+2024-11-29 17:14:55-Koneksi berhasil ke database
+2024-11-29 17:14:55-Tampilkan data ke Frame Fanggota
+2024-11-29 17:14:58-Koneksi berhasil ke database
+2024-11-29 17:15:00-Data Berhasil Dihapus dengan NIM C050423026
+2024-11-29 17:15:00-Koneksi berhasil ke database
+2024-11-29 17:15:00-Tampilkan data ke Frame Fanggota
+2024-11-29 17:15:09-Koneksi berhasil ke database
+2024-11-29 17:15:09-Tampilkan data ke FrameFbuku
+2024-11-29 17:15:30-Koneksi berhasil ke database
+2024-11-29 17:15:31-Penyimpanan Data Berhasil dengan NIMC12
+2024-11-29 17:15:31-Koneksi berhasil ke database
+2024-11-29 17:15:31-Tampilkan data ke FrameFbuku
+2024-11-29 17:15:40-Koneksi berhasil ke database
+2024-11-29 17:15:40-Tampilkan data ke FrameFbuku
+2024-11-29 17:15:48-Koneksi berhasil ke database
+2024-11-29 17:15:50-Data gagal dihapus : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Buku='C03'' at line 1
+2024-11-29 17:15:50-Koneksi berhasil ke database
+2024-11-29 17:15:50-Tampilkan data ke FrameFbuku
+2024-11-29 17:15:53-Koneksi berhasil ke database
+2024-11-29 17:15:53-Tampilkan data ke FrameFbuku
+2024-11-29 17:15:59-Koneksi berhasil ke database
+2024-11-29 17:16:00-Data gagal dihapus : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Buku='C03'' at line 1
+2024-11-29 17:16:00-Koneksi berhasil ke database
+2024-11-29 17:16:00-Tampilkan data ke FrameFbuku
+2024-11-29 17:17:22-Koneksi berhasil ke database
+2024-11-29 17:17:27-Data gagal dihapus : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Buku='C03'' at line 1
+2024-11-29 17:17:27-Koneksi berhasil ke database
+2024-11-29 17:17:27-Tampilkan data ke FrameFbuku
+2024-11-29 17:17:51-Koneksi berhasil ke database
+2024-11-29 17:17:51-Tampilkan data ke FrameFbuku
+2024-11-29 17:17:58-Koneksi berhasil ke database
+2024-11-29 17:18:04-Data gagal dihapus : Unknown column 'kode_buku' in 'where clause'
+2024-11-29 17:18:04-Koneksi berhasil ke database
+2024-11-29 17:18:04-Tampilkan data ke FrameFbuku
+2024-11-29 17:19:26-Koneksi berhasil ke database
+2024-11-29 17:19:26-Tampilkan data ke FrameFbuku
+2024-11-29 17:19:29-Koneksi berhasil ke database
+2024-11-29 17:19:35-Data gagal dihapus : Unknown column 'kode_buku' in 'where clause'
+2024-11-29 17:19:35-Koneksi berhasil ke database
+2024-11-29 17:19:35-Tampilkan data ke FrameFbuku
+2024-11-29 17:20:25-Koneksi berhasil ke database
+2024-11-29 17:20:25-Tampilkan data ke FrameFbuku
+2024-11-29 17:20:28-Koneksi berhasil ke database
+2024-11-29 17:20:32-Data Berhasil Dihapus dengan Kode Buku C03
+2024-11-29 17:20:32-Koneksi berhasil ke database
+2024-11-29 17:20:32-Tampilkan data ke FrameFbuku
+2024-11-29 17:20:48-Koneksi berhasil ke database
+2024-11-29 17:20:53-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'buku= 'Boynextdoor', pengarang ='TXT', Penerbit='HYBE', tahun terbit ='2020' WHE' at line 1
+2024-11-29 17:20:53-Koneksi berhasil ke database
+2024-11-29 17:20:53-Tampilkan data ke FrameFbuku
+2024-11-29 17:21:33-Koneksi berhasil ke database
+2024-11-29 17:21:33-Tampilkan data ke FrameFbuku
+2024-11-29 17:21:38-Koneksi berhasil ke database
+2024-11-29 17:21:55-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'terbit ='2020' WHERE kode_buku = 'C12'' at line 1
+2024-11-29 17:21:55-Koneksi berhasil ke database
+2024-11-29 17:21:55-Tampilkan data ke FrameFbuku
+2024-11-29 17:22:52-Koneksi berhasil ke database
+2024-11-29 17:22:52-Tampilkan data ke FrameFbuku
+2024-11-29 17:22:58-Koneksi berhasil ke database
+2024-11-29 17:23:02-Data Berhasil Diperbaharui dengan ID C12
+2024-11-29 17:23:02-Koneksi berhasil ke database
+2024-11-29 17:23:02-Tampilkan data ke FrameFbuku
+2024-11-29 17:23:34-Koneksi berhasil ke database
+2024-11-29 17:23:34-Tampilkan data ke Frame Fanggota
+2024-11-29 17:23:37-Koneksi berhasil ke database
+2024-11-29 17:23:37-Tampilkan data ke FrameFbuku
+2024-11-29 17:23:40-Koneksi berhasil ke database
+2024-11-29 17:23:40-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:24:15-Koneksi berhasil ke database
+2024-11-29 17:24:15-Tampilkan data ke FrameFbuku
+2024-11-29 17:24:52-Koneksi berhasil ke database
+2024-11-29 17:24:52-Tampilkan data ke FrameFbuku
+2024-11-29 17:25:18-Koneksi berhasil ke database
+2024-11-29 17:25:18-Tampilkan data ke FrameFbuku
+2024-11-29 17:26:09-Koneksi berhasil ke database
+2024-11-29 17:26:09-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:26:44-Koneksi berhasil ke database
+2024-11-29 17:26:44-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:27:05-Koneksi berhasil ke database
+2024-11-29 17:27:05-Tampilkan data ke Frame Fpeminjaman
+2024-11-29 17:27:19-Koneksi berhasil ke database
+2024-11-29 17:27:19-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 14:16:38-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:16:38-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:16:52-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:16:52-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:16:54-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:16:54-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:16:56-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:16:56-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:16:58-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:16:58-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:17:00-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:17:00-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:17:01-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:17:01-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:17:04-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:17:04-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:17:06-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:17:06-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:17:09-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:17:09-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:17:48-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:17:48-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:18:18-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:18:18-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 14:18:36-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 14:18:36-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:20-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:20-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:22-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:22-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:24-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:24-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:27-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:27-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:27-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:27-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:30-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:30-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:32-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:32-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:52:34-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:52:34-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:56:19-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:56:19-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:56:20-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:56:20-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:56:22-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:56:22-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:56:25-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:56:25-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:56:27-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:56:27-Data tidak dapat ditampilkan: Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 15:56:29-Koneksi gagal:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-11-30 15:56:29-Data tidak dapat ditampilkan : Cannot invoke "java.sql.Connection.createStatement()" because "conn" is null
+2024-11-30 16:00:54-Koneksi berhasil ke database
+2024-11-30 16:00:54-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:02:04-Koneksi berhasil ke database
+2024-11-30 16:02:06-Penyimpanan Data Berhasil dengan ID D04
+2024-11-30 16:02:06-Koneksi berhasil ke database
+2024-11-30 16:02:06-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:02:26-Koneksi berhasil ke database
+2024-11-30 16:02:26-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:02:36-Koneksi berhasil ke database
+2024-11-30 16:02:38-Data gagal dihapus : Unknown column 'id' in 'where clause'
+2024-11-30 16:02:38-Koneksi berhasil ke database
+2024-11-30 16:02:38-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:02:42-Koneksi berhasil ke database
+2024-11-30 16:02:42-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:04:29-Koneksi berhasil ke database
+2024-11-30 16:04:29-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:04:35-Koneksi berhasil ke database
+2024-11-30 16:04:35-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:04:46-Koneksi berhasil ke database
+2024-11-30 16:04:47-Data Berhasil Dihapus dengan ID D04
+2024-11-30 16:04:47-Koneksi berhasil ke database
+2024-11-30 16:04:47-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:04:50-Koneksi berhasil ke database
+2024-11-30 16:04:50-Tampilkan data ke FrameFbuku
+2024-11-30 16:04:55-Koneksi berhasil ke database
+2024-11-30 16:04:55-Tampilkan data ke Frame Fanggota
+2024-11-30 16:05:01-Koneksi berhasil ke database
+2024-11-30 16:05:01-Tampilkan data ke FrameFbuku
+2024-11-30 16:05:03-Koneksi berhasil ke database
+2024-11-30 16:05:03-Tampilkan data ke Frame Fanggota
+2024-11-30 16:05:07-Koneksi berhasil ke database
+2024-11-30 16:05:07-Tampilkan data ke FrameFbuku
+2024-11-30 16:05:11-Koneksi berhasil ke database
+2024-11-30 16:05:11-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:05:18-Koneksi berhasil ke database
+2024-11-30 16:05:19-Data Berhasil Dihapus dengan ID 1
+2024-11-30 16:05:19-Koneksi berhasil ke database
+2024-11-30 16:05:19-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:08:13-Koneksi berhasil ke database
+2024-11-30 16:08:13-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:09:03-Koneksi berhasil ke database
+2024-11-30 16:09:05-Penyimpanan Data Berhasil dengan ID NB1
+2024-11-30 16:09:05-Koneksi berhasil ke database
+2024-11-30 16:09:05-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:09:43-Koneksi berhasil ke database
+2024-11-30 16:09:43-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:09:45-Koneksi berhasil ke database
+2024-11-30 16:09:45-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:09:50-Koneksi berhasil ke database
+2024-11-30 16:09:50-Tampilkan data ke FrameFbuku
+2024-11-30 16:09:57-Koneksi berhasil ke database
+2024-11-30 16:09:57-Tampilkan data ke Frame Fanggota
+2024-11-30 16:20:50-Koneksi berhasil ke database
+2024-11-30 16:20:50-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:21:59-Koneksi berhasil ke database
+2024-11-30 16:21:59-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:24:37-Koneksi berhasil ke database
+2024-11-30 16:24:38-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:26:05-Koneksi berhasil ke database
+2024-11-30 16:26:05-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:26:49-Koneksi berhasil ke database
+2024-11-30 16:26:51-Penyimpanan Data Berhasil dengan ID NB2
+2024-11-30 16:26:51-Koneksi berhasil ke database
+2024-11-30 16:26:51-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:30:35-Koneksi berhasil ke database
+2024-11-30 16:30:36-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:33:04-Koneksi berhasil ke database
+2024-11-30 16:33:04-Tampilkan data ke Frame Fanggota
+2024-11-30 16:33:07-Koneksi berhasil ke database
+2024-11-30 16:33:07-Tampilkan data ke FrameFbuku
+2024-11-30 16:33:10-Koneksi berhasil ke database
+2024-11-30 16:33:12-Data Berhasil Diperbaharui dengan ID C12
+2024-11-30 16:33:12-Koneksi berhasil ke database
+2024-11-30 16:33:12-Tampilkan data ke FrameFbuku
+2024-11-30 16:33:13-Koneksi berhasil ke database
+2024-11-30 16:33:13-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:33:25-Koneksi berhasil ke database
+2024-11-30 16:33:37-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''555','How To Success','1','2024-11-30','2024-12-07' WHERE id = 'NB1'' at line 1
+2024-11-30 16:33:37-Koneksi berhasil ke database
+2024-11-30 16:33:37-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:34:25-Koneksi berhasil ke database
+2024-11-30 16:34:36-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''554','How To Succes','1','2024-11-30','2024-12-07' WHERE id = 'NB1'' at line 1
+2024-11-30 16:34:36-Koneksi berhasil ke database
+2024-11-30 16:34:36-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:35:15-Koneksi berhasil ke database
+2024-11-30 16:35:15-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:35:21-Koneksi berhasil ke database
+2024-11-30 16:35:30-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''C050423036','554','How To Succes','1','2024-11-30','2024-12-07' WHERE id = 'NB1' at line 1
+2024-11-30 16:35:30-Koneksi berhasil ke database
+2024-11-30 16:35:30-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:35:45-Koneksi berhasil ke database
+2024-11-30 16:35:45-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:35:50-Koneksi berhasil ke database
+2024-11-30 16:35:55-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''C050423036','554','How To Succes','1','2024-11-30','2024-12-07' WHERE id = 'NB1' at line 1
+2024-11-30 16:35:55-Koneksi berhasil ke database
+2024-11-30 16:35:55-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:39:39-Koneksi berhasil ke database
+2024-11-30 16:39:39-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:39:52-Koneksi berhasil ke database
+2024-11-30 16:39:52-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:39:55-Koneksi berhasil ke database
+2024-11-30 16:40:00-Perubahan Data Gagal : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''C050423036', kode_buku'555', judul_buku'How To Succes', jumlah'1', tgl_pinjam'2' at line 1
+2024-11-30 16:40:00-Koneksi berhasil ke database
+2024-11-30 16:40:00-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:41:40-Koneksi berhasil ke database
+2024-11-30 16:41:40-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:41:50-Koneksi berhasil ke database
+2024-11-30 16:41:53-Data Berhasil Diperbaharui dengan ID NB1
+2024-11-30 16:41:54-Koneksi berhasil ke database
+2024-11-30 16:41:54-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:41:59-Koneksi berhasil ke database
+2024-11-30 16:42:00-Data Berhasil Dihapus dengan ID NB2
+2024-11-30 16:42:00-Koneksi berhasil ke database
+2024-11-30 16:42:00-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 16:42:02-Koneksi berhasil ke database
+2024-11-30 16:42:02-Tampilkan data ke FrameFbuku
+2024-11-30 16:42:05-Koneksi berhasil ke database
+2024-11-30 16:42:05-Tampilkan data ke Frame Fanggota
+2024-11-30 17:18:16-Koneksi berhasil ke database
+2024-11-30 17:18:16-Tampilkan data ke FrameFbuku
+2024-11-30 17:18:17-Koneksi berhasil ke database
+2024-11-30 17:18:17-Tampilkan data ke Frame Fanggota
+2024-11-30 17:18:19-Koneksi berhasil ke database
+2024-11-30 17:18:19-Tampilkan data ke Frame Fpeminjaman
+2024-11-30 17:18:20-Koneksi berhasil ke database
+2024-11-30 17:18:20-Tampilkan data ke FrameFbuku
+2024-11-30 17:18:21-Koneksi berhasil ke database
+2024-11-30 17:18:21-Tampilkan data ke Frame Fanggota
+2024-11-30 17:18:23-Koneksi berhasil ke database
+2024-11-30 17:18:23-Tampilkan data ke Frame Fanggota
+2024-11-30 17:18:24-Koneksi berhasil ke database
+2024-11-30 17:18:24-Tampilkan data ke FrameFbuku
+2024-11-30 17:18:26-Koneksi berhasil ke database
+2024-11-30 17:18:26-Tampilkan data ke Frame Fpeminjaman
+2024-12-26 12:28:20-Koneksi berhasil ke database
+2024-12-26 12:28:20-Tampilkan data ke Frame Fanggota
+2024-12-26 12:28:26-Koneksi berhasil ke database
+2024-12-26 12:28:26-Tampilkan data ke FrameFbuku
+2024-12-26 12:28:29-Koneksi berhasil ke database
+2024-12-26 12:28:29-Tampilkan data ke Frame Fanggota
+2024-12-26 12:28:33-Koneksi berhasil ke database
+2024-12-26 12:28:33-Tampilkan data ke Frame Fpeminjaman
+2024-12-26 12:28:35-Koneksi berhasil ke database
+2024-12-26 12:28:35-Tampilkan data ke FrameFbuku
+2024-12-26 12:28:37-Koneksi berhasil ke database
+2024-12-26 12:28:37-Tampilkan data ke Frame Fanggota
+2024-12-26 12:29:08-Koneksi berhasil ke database
+2024-12-26 12:29:08-Tampilkan data ke Frame Fanggota
+2024-12-26 12:29:16-Koneksi berhasil ke database
+2024-12-26 12:29:16-Tampilkan data ke FrameFbuku
+2024-12-26 12:29:28-Koneksi berhasil ke database
+2024-12-26 12:29:28-Tampilkan data ke Frame Fanggota
+2024-12-26 12:29:33-Koneksi berhasil ke database
+2024-12-26 12:29:33-Tampilkan data ke Frame Fpeminjaman
+2024-12-26 12:29:51-Koneksi berhasil ke database
+2024-12-26 12:29:51-Tampilkan data ke FrameFbuku
+2024-12-26 12:29:52-Koneksi berhasil ke database
+2024-12-26 12:29:52-Tampilkan data ke Frame Fanggota
+2024-12-26 12:32:13-Koneksi berhasil ke database
+2024-12-26 12:32:13-Tampilkan data ke Frame Fanggota
+2024-12-26 12:35:54-Koneksi berhasil ke database
+2024-12-26 12:35:54-Tampilkan data ke Frame Fanggota
+2024-12-26 12:58:52-Koneksi berhasil ke database
+2024-12-26 12:58:52-Tampilkan data ke Frame Fanggota
+2024-12-26 13:04:28-Koneksi berhasil ke database
+2024-12-26 13:04:29-Tampilkan data ke Frame Fanggota
+2024-12-26 13:04:46-Koneksi berhasil ke database
+2024-12-26 13:04:49-Data Berhasil Dihapus dengan NIM 312110765
+2024-12-26 13:04:49-Koneksi berhasil ke database
+2024-12-26 13:04:49-Tampilkan data ke Frame Fanggota
+2024-12-26 13:05:53-Koneksi berhasil ke database
+2024-12-26 13:05:53-Tampilkan data ke Frame Fanggota
+2024-12-26 13:09:38-Koneksi berhasil ke database
+2024-12-26 13:09:39-Tampilkan data ke Frame Fanggota
+2024-12-26 13:10:46-Koneksi berhasil ke database
+2024-12-26 13:10:46-Tampilkan data ke Frame Fanggota
+2024-12-26 13:11:46-Koneksi berhasil ke database
+2024-12-26 13:11:46-Tampilkan data ke Frame Fanggota
+2024-12-26 13:13:22-Koneksi berhasil ke database
+2024-12-26 13:13:23-Tampilkan data ke Frame Fanggota
+2024-12-26 13:15:43-Koneksi berhasil ke database
+2024-12-26 13:15:43-Tampilkan data ke Frame Fanggota
+2024-12-26 13:16:05-Koneksi berhasil ke database
+2024-12-26 13:16:07-Penyimpanan Data Berhasil dengan NIM 312210467
+2024-12-26 13:16:07-Koneksi berhasil ke database
+2024-12-26 13:16:07-Tampilkan data ke Frame Fanggota
+2024-12-26 13:16:20-Koneksi berhasil ke database
+2024-12-26 13:16:21-Data Berhasil Dihapus dengan NIM 312210467
+2024-12-26 13:16:21-Koneksi berhasil ke database
+2024-12-26 13:16:21-Tampilkan data ke Frame Fanggota
+2024-12-26 13:17:30-Koneksi berhasil ke database
+2024-12-26 13:17:30-Tampilkan data ke Frame Fanggota
+2024-12-26 13:18:49-Koneksi berhasil ke database
+2024-12-26 13:18:49-Tampilkan data ke Frame Fanggota
+2024-12-26 13:19:59-Koneksi berhasil ke database
+2024-12-26 13:19:59-Tampilkan data ke Frame Fanggota
+2024-12-26 13:24:46-Koneksi berhasil ke database
+2024-12-26 13:24:46-Tampilkan data ke Frame Fanggota
+2024-12-26 13:25:06-Koneksi berhasil ke database
+2024-12-26 13:25:08-Penyimpanan Data Berhasil dengan NIM 123
+2024-12-26 13:25:08-Koneksi berhasil ke database
+2024-12-26 13:25:08-Tampilkan data ke Frame Fanggota
+2024-12-26 13:25:19-Koneksi berhasil ke database
+2024-12-26 13:25:22-Data Berhasil Diperbaharui dengan ID 1234
+2024-12-26 13:25:22-Koneksi berhasil ke database
+2024-12-26 13:25:22-Tampilkan data ke Frame Fanggota
+2024-12-26 13:25:36-Koneksi berhasil ke database
+2024-12-26 13:25:38-Penyimpanan Data Berhasil dengan NIM 1234
+2024-12-26 13:25:38-Koneksi berhasil ke database
+2024-12-26 13:25:38-Tampilkan data ke Frame Fanggota
+2024-12-26 13:25:42-Koneksi berhasil ke database
+2024-12-26 13:25:43-Data Berhasil Dihapus dengan NIM 123
+2024-12-26 13:25:43-Koneksi berhasil ke database
+2024-12-26 13:25:43-Tampilkan data ke Frame Fanggota
+2024-12-26 13:25:47-Koneksi berhasil ke database
+2024-12-26 13:25:49-Data Berhasil Dihapus dengan NIM 1234
+2024-12-26 13:25:49-Koneksi berhasil ke database
+2024-12-26 13:25:49-Tampilkan data ke Frame Fanggota
+2024-12-26 13:26:10-Koneksi berhasil ke database
+2024-12-26 13:26:11-Penyimpanan Data Berhasil dengan NIM 123
+2024-12-26 13:26:11-Koneksi berhasil ke database
+2024-12-26 13:26:11-Tampilkan data ke Frame Fanggota
+2024-12-26 13:26:21-Koneksi berhasil ke database
+2024-12-26 13:26:26-Data gagal disimpan: Duplicate entry '123' for key 'PRIMARY'
+2024-12-26 13:26:31-Koneksi berhasil ke database
+2024-12-26 13:26:32-Penyimpanan Data Berhasil dengan NIM 1233
+2024-12-26 13:26:32-Koneksi berhasil ke database
+2024-12-26 13:26:32-Tampilkan data ke Frame Fanggota
+2024-12-26 13:26:44-Koneksi berhasil ke database
+2024-12-26 13:26:46-Data Berhasil Diperbaharui dengan ID 1233
+2024-12-26 13:26:46-Koneksi berhasil ke database
+2024-12-26 13:26:46-Tampilkan data ke Frame Fanggota
+2024-12-26 13:26:56-Koneksi berhasil ke database
+2024-12-26 13:26:58-Data Berhasil Dihapus dengan NIM 123
+2024-12-26 13:26:58-Koneksi berhasil ke database
+2024-12-26 13:26:58-Tampilkan data ke Frame Fanggota
+2024-12-26 13:27:01-Koneksi berhasil ke database
+2024-12-26 13:27:02-Data Berhasil Dihapus dengan NIM 1233
+2024-12-26 13:27:02-Koneksi berhasil ke database
+2024-12-26 13:27:02-Tampilkan data ke Frame Fanggota
+2024-12-26 13:28:48-Koneksi berhasil ke database
+2024-12-26 13:28:48-Tampilkan data ke FrameFbuku
+2024-12-26 13:29:15-Koneksi berhasil ke database
+2024-12-26 13:29:15-Tampilkan data ke Frame Fanggota
+2024-12-26 13:29:18-Koneksi berhasil ke database
+2024-12-26 13:29:18-Tampilkan data ke Frame Fpeminjaman
+2024-12-26 19:22:37-Koneksi berhasil ke database
+2024-12-26 19:22:38-Tampilkan data ke Frame Fanggota
+2024-12-26 19:22:47-Koneksi berhasil ke database
+2024-12-26 19:22:47-Tampilkan data ke FrameFbuku
+2024-12-26 19:22:50-Koneksi berhasil ke database
+2024-12-26 19:22:50-Tampilkan data ke Frame Fpeminjaman
+2024-12-26 19:22:53-Koneksi berhasil ke database
+2024-12-26 19:22:53-Tampilkan data ke FrameFbuku
+2024-12-26 19:22:55-Koneksi berhasil ke database
+2024-12-26 19:22:55-Tampilkan data ke Frame Fanggota
+2024-12-26 19:22:58-Koneksi berhasil ke database
+2024-12-26 19:22:58-Tampilkan data ke Frame Fpeminjaman
+2024-12-26 19:23:01-Koneksi berhasil ke database
+2024-12-26 19:23:01-Tampilkan data ke FrameFbuku
+2024-12-26 19:23:03-Koneksi berhasil ke database
+2024-12-26 19:23:03-Tampilkan data ke Frame Fanggota
+2024-12-27 09:39:41-Koneksi berhasil ke database
+2024-12-27 09:39:41-Tampilkan data ke Frame Fanggota
+2024-12-27 09:39:50-Koneksi berhasil ke database
+2024-12-27 09:39:50-Tampilkan data ke FrameFbuku
+2024-12-27 09:39:53-Koneksi berhasil ke database
+2024-12-27 09:39:53-Tampilkan data ke Frame Fanggota
+2025-01-05 11:25:38-Koneksi berhasil ke database
+2025-01-05 11:25:38-Tampilkan data ke Frame Fanggota
+2025-01-05 11:26:00-Koneksi berhasil ke database
+2025-01-05 11:26:02-Penyimpanan Data Berhasil dengan NIM 312
+2025-01-05 11:26:02-Koneksi berhasil ke database
+2025-01-05 11:26:02-Tampilkan data ke Frame Fanggota
+2025-01-05 11:26:10-Koneksi berhasil ke database
+2025-01-05 11:26:13-Data Berhasil Dihapus dengan NIM 312
+2025-01-05 11:26:13-Koneksi berhasil ke database
+2025-01-05 11:26:13-Tampilkan data ke Frame Fanggota
+2025-01-09 10:27:12-Koneksi berhasil ke database
+2025-01-09 10:27:12-Tampilkan data ke FrameFbuku
+2025-01-09 10:27:55-Koneksi berhasil ke database
+2025-01-09 10:27:57-Penyimpanan Data Berhasil dengan NIM003
+2025-01-09 10:27:57-Koneksi berhasil ke database
+2025-01-09 10:27:57-Tampilkan data ke FrameFbuku
+2025-01-09 10:28:52-Koneksi berhasil ke database
+2025-01-09 10:28:52-Tampilkan data ke Frame Fanggota
+2025-01-09 10:28:57-Koneksi berhasil ke database
+2025-01-09 10:28:57-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:29:04-Koneksi berhasil ke database
+2025-01-09 10:29:04-Tampilkan data ke FrameFbuku
+2025-01-09 10:29:04-Koneksi berhasil ke database
+2025-01-09 10:29:04-Tampilkan data ke Frame Fanggota
+2025-01-09 10:29:08-Koneksi berhasil ke database
+2025-01-09 10:29:08-Tampilkan data ke Frame Fanggota
+2025-01-09 10:29:39-Koneksi berhasil ke database
+2025-01-09 10:29:39-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:29:46-Koneksi berhasil ke database
+2025-01-09 10:29:46-Tampilkan data ke FrameFbuku
+2025-01-09 10:29:50-Koneksi berhasil ke database
+2025-01-09 10:29:50-Tampilkan data ke Frame Fanggota
+2025-01-09 10:31:28-Koneksi berhasil ke database
+2025-01-09 10:31:28-Tampilkan data ke Frame Fanggota
+2025-01-09 10:31:32-Koneksi berhasil ke database
+2025-01-09 10:31:32-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:32:15-Koneksi berhasil ke database
+2025-01-09 10:32:15-Tampilkan data ke FrameFbuku
+2025-01-09 10:32:21-Koneksi berhasil ke database
+2025-01-09 10:32:21-Tampilkan data ke Frame Fanggota
+2025-01-09 10:32:24-Koneksi berhasil ke database
+2025-01-09 10:32:24-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:32:42-Koneksi berhasil ke database
+2025-01-09 10:32:42-Tampilkan data ke FrameFbuku
+2025-01-09 10:32:44-Koneksi berhasil ke database
+2025-01-09 10:32:44-Tampilkan data ke Frame Fanggota
+2025-01-09 10:32:48-Koneksi berhasil ke database
+2025-01-09 10:32:48-Tampilkan data ke FrameFbuku
+2025-01-09 10:33:12-Koneksi berhasil ke database
+2025-01-09 10:33:12-Tampilkan data ke Frame Fanggota
+2025-01-09 10:33:15-Koneksi berhasil ke database
+2025-01-09 10:33:15-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:33:24-Koneksi berhasil ke database
+2025-01-09 10:33:24-Tampilkan data ke FrameFbuku
+2025-01-09 10:33:27-Koneksi berhasil ke database
+2025-01-09 10:33:27-Tampilkan data ke Frame Fanggota
+2025-01-09 10:33:38-Koneksi berhasil ke database
+2025-01-09 10:33:38-Tampilkan data ke FrameFbuku
+2025-01-09 10:33:50-Koneksi berhasil ke database
+2025-01-09 10:33:50-Tampilkan data ke Frame Fanggota
+2025-01-09 10:33:53-Koneksi berhasil ke database
+2025-01-09 10:33:53-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:35:12-Koneksi berhasil ke database
+2025-01-09 10:35:13-Penyimpanan Data Berhasil dengan ID Op1
+2025-01-09 10:35:13-Koneksi berhasil ke database
+2025-01-09 10:35:13-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:42:53-Koneksi berhasil ke database
+2025-01-09 10:42:53-Tampilkan data ke Frame Fanggota
+2025-01-09 10:43:58-Koneksi berhasil ke database
+2025-01-09 10:43:59-Penyimpanan Data Berhasil dengan NIM 31221978
+2025-01-09 10:43:59-Koneksi berhasil ke database
+2025-01-09 10:43:59-Tampilkan data ke Frame Fanggota
+2025-01-09 10:44:18-Koneksi berhasil ke database
+2025-01-09 10:44:18-Tampilkan data ke FrameFbuku
+2025-01-09 10:44:22-Koneksi berhasil ke database
+2025-01-09 10:44:22-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:44:29-Koneksi berhasil ke database
+2025-01-09 10:44:29-Tampilkan data ke FrameFbuku
+2025-01-09 10:44:30-Koneksi berhasil ke database
+2025-01-09 10:44:30-Tampilkan data ke Frame Fanggota
+2025-01-09 10:44:33-Koneksi berhasil ke database
+2025-01-09 10:44:33-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:45:41-Koneksi berhasil ke database
+2025-01-09 10:45:44-Data gagal disimpan: Duplicate entry 'NB1' for key 'PRIMARY'
+2025-01-09 10:45:48-Koneksi berhasil ke database
+2025-01-09 10:45:50-Penyimpanan Data Berhasil dengan ID NB2
+2025-01-09 10:45:50-Koneksi berhasil ke database
+2025-01-09 10:45:50-Tampilkan data ke Frame Fpeminjaman
+2025-01-09 10:46:08-Koneksi berhasil ke database
+2025-01-09 10:46:08-Tampilkan data ke FrameFbuku
+2025-01-09 10:46:09-Koneksi berhasil ke database
+2025-01-09 10:46:09-Tampilkan data ke Frame Fanggota
+2025-01-09 10:46:12-Koneksi berhasil ke database
+2025-01-09 10:46:12-Tampilkan data ke FrameFbuku
+2025-01-09 10:46:51-Koneksi berhasil ke database
+2025-01-09 10:46:52-Penyimpanan Data Berhasil dengan NIM004
+2025-01-09 10:46:52-Koneksi berhasil ke database
+2025-01-09 10:46:52-Tampilkan data ke FrameFbuku
+2025-01-09 10:47:08-Koneksi berhasil ke database
+2025-01-09 10:47:08-Tampilkan data ke Frame Fanggota
+2025-01-09 10:54:50-Koneksi berhasil ke database
+2025-01-09 10:54:50-Tampilkan data ke Frame Fanggota
+2025-01-09 10:55:27-Koneksi berhasil ke database
+2025-01-09 10:55:27-Tampilkan data ke FrameFbuku
+2025-01-09 10:56:04-Koneksi berhasil ke database
+2025-01-09 10:56:04-Tampilkan data ke Frame Fpeminjaman
