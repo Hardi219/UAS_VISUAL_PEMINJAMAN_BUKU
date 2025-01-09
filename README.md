@@ -3,25 +3,30 @@
 
 **Nama** **kelompok** **:** 
 
-Idris Syahrudin.
+Idris Syahrudin		(312210467)
 
-Dimas Aditya Putranto
+Dimas Aditya Putranto	(312210489)
 
-Muhamad Jati Wasesa
+Muhamad Jati Wasesa	(312210481)
 
-Hardi Wirkan
+Hardi Wirkan		(312210492)
 
-Ridha Muhammad Rifqi
+Ridha Muhammad Rifqi	(312210491)
 
 Kelas : TI.22.A.5
 
-**Program Visual Peminjaman Buku**
+Link Github:
+
+https://github.com/Hardi219/UAS_VISUAL_PEMINJAMAN_BUKU.git
+
+Program Visual Peminjaman Buku
 
 Sistem menggunakan Database xampp
 
 Dengan Fitur CRUD
 
 Hasil Program
+
 
 
 
