@@ -13,7 +13,7 @@ Hardi Wirkan
 
 Ridha Muhammad Rifqi
 
-Kleas : TI.22.A.5
+Kelas : TI.22.A.5
 
 **Program Visual Peminjaman Buku**
 
